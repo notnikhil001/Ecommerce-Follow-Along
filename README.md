@@ -125,3 +125,13 @@ By completing this milestone, we learned:
   - *Updated README* summarizing the progress.  
 
 🚀 Ready for the next milestone
+
+
+📌 Milestone 3: Project Setup for Backend
+In this milestone, we successfully set up the backend for our Ecommerce project using Node.js, Express.js, and MongoDB.
+
+✅ Achievements in this Milestone
+Set up a Node.js backend server using Express.
+Configured the server to listen on a designated port.
+Integrated MongoDB for efficient data storage.
+Established a connection between the server and MongoDB to confirm successful integration.
